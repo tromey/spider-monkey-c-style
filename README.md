@@ -15,4 +15,4 @@ https://wiki.mozilla.org/JavaScript:SpiderMonkey:Coding_Style
 and existing SpiderMonkey code.
 
 This script is still draft, and there may be wrong styling,
-bug reports are wolcome :)
+bug reports are welcome :)
