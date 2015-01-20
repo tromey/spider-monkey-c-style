@@ -1,5 +1,6 @@
 ;;; spider-monkey-c-style.el --- SpiderMonkey Coding Style draft for c-mode
 
+;; Version: 1.0
 ;; Keywords: c, tools
 
 ;; spider-monkey-c-style.el is created by arai (arai_a@mac.com).
